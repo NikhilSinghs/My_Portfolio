@@ -14,3 +14,6 @@ document.querySelector('.hamburger').addEventListener("click",()=>{
         
     }
 })
+// this code for text animation at home page
+
+var moreabout = new Typed('.moreabout', {strings: ['<i>I am a Developer.</i> ', '&amp; I love developing websites.'],typeSpeed: 30,});
